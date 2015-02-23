@@ -3,7 +3,7 @@ var bio = {
     "role": "Graduate Student",
     "contacts": {
         "mobile": "+886.9.60407953",
-        "email": "contact@shawnlin.com",
+        "email": "do.not.email@shawnlin.com",
         "twitter": "https://twitter.com/stslin",
         "github": "https://github.com/stslin",
         "blog": "http://blog.shawnlin.com",
